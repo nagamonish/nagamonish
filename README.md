@@ -1,21 +1,32 @@
-# 💫 About Me:
-🔭 I'm currently working on: A stock prediction AI model that displays buy and sell signals.<br><br>👯 I'm looking to collaborate on: AI projects, particularly in areas like machine learning and data analysis.<br><br>🤝 I'm looking for help with: Fine-tuning my fraud detection project involving machine learning and financial transactions.<br><br>🌱 I'm currently learning: Machine learning <br><br>💬 Ask me about: Database design, web development, or data structures and algorithms.<br><br>⚡ Fun fact: I’m working on a custom PC build with an $1800 budget!
+# Hi, I'm Naga Monish Munagala 👋
 
+**Full-Stack SWE & AI Engineer · CS junior at UNC Charlotte ('27) · I build and ship production LLM-powered apps**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nmmunagala123) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/monish-munagala) 
+## 💫 About me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nagamonish&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nagamonish&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagamonish&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 **Now:** IT Solutions Developer Intern at Ardor IT Solutions — building **Ardor Accessibility**,
+  a production SaaS that audits websites for ADA/WCAG 2.1 AA compliance. TypeScript + Rollup browser
+  widget (Shadow DOM), Python/FastAPI backend, automated Playwright + axe-core scanner, and Anthropic's
+  Claude API for AI-generated alt text. Real customers, 460+ passing tests.
+- 🤖 **Previously:** built **M.I.R.I.A.M.** at UNC Charlotte — an LLM-powered copilot for university
+  capital-project compliance: RAG over 50+ policy documents, OCR/NLP document-extraction pipeline,
+  rules engine, and React dashboard.
+- 🎯 **Looking for:** Summer 2027 SWE/AI engineering internships, plus part-time/co-op work now.
+  I want roles where I keep shipping real systems.
+- 💬 **Ask me about:** LLM/RAG integration, FastAPI, React, web accessibility (WCAG/ADA)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💻 Tech stack
 
----
-[![](https://visitcount.itsvg.in/api?id=nagamonish&icon=5&color=0)](https://visitcount.itsvg.in)
+Python · TypeScript · JavaScript · React · FastAPI · Node.js · PostgreSQL · SQLite ·
+Playwright · axe-core · HuggingFace · Anthropic Claude API · Docker · Nginx · Linux · Git
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Find me
+
+[LinkedIn](https://linkedin.com/in/nmmunagala123) ·
+[Stack Overflow](https://stackoverflow.com/users/monish-munagala) ·
+[Email](mailto:nagamonishmunagala@gmail.com)
+
+## 📊 GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nagamonish&show_icons=true&theme=nightowl)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagamonish&layout=compact&theme=nightowl)
